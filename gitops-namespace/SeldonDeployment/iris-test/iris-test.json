@@ -37,7 +37,7 @@
                             "containers": [
                                 {
                                     "name": "iris-test-container",
-                                    "image": "seldonio/sklearnserver_rest:1.3.0",
+                                    "image": "seldonio/sklearnserver_rest:1.4.0",
                                     "ports": [
                                         {
                                             "name": "metrics",
